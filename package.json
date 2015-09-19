@@ -1,0 +1,24 @@
+{
+  "name": "@codexp/nw.tray-menu",
+  "version": "0.0.1",
+  "description": "NW tray menu",
+  "main": "tray-menu.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codexp/nw.tray-menu.git"
+  },
+  "keywords": [
+    "NW",
+    "tray",
+    "menu"
+  ],
+  "author": "CodeXP",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codexp/nw.tray-menu/issues"
+  },
+  "homepage": "https://github.com/codexp/nw.tray-menu#readme"
+}
